@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="4201_multiples_panel.svg"
-   inkscape:export-filename="420-01_Multiples_panel_silkscreen_with_background.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600"
+   inkscape:export-filename="4201_multiples_panel_silk.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.5092687"
-     inkscape:cx="52.674516"
-     inkscape:cy="235.87582"
+     inkscape:zoom="1.6183852"
+     inkscape:cx="73.221134"
+     inkscape:cy="220.59025"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="g54232"
      inkscape:lockguides="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -525,9 +525,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,0.29075428,-1.8492207)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6397"><tspan
+         id="tspan1537"><tspan
            style="font-weight:bold;fill:#ffffff"
-           id="tspan6395">IN</tspan></tspan></text>
+           id="tspan1535">IN</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5.6447px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -537,9 +537,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,-5.3915706,-1.0555322)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6401"><tspan
+         id="tspan1541"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6399">1</tspan></tspan></text>
+           id="tspan1539">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5.6447px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -549,9 +549,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,-6.0054287,53.599626)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6405"><tspan
+         id="tspan1545"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6403">2</tspan></tspan></text>
+           id="tspan1543">2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.82235px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -561,9 +561,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,8.6877957,-3.341491)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6409"><tspan
+         id="tspan1549"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6407">P</tspan></tspan></text>
+           id="tspan1547">P</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.82235px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -573,9 +573,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,8.6320549,0.46850893)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6413"><tspan
+         id="tspan1553"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6411">N</tspan></tspan></text>
+           id="tspan1551">N</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.82235px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -585,9 +585,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,8.687796,51.268513)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6417"><tspan
+         id="tspan1557"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6415">P</tspan></tspan></text>
+           id="tspan1555">P</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.82235px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;white-space:pre;inline-size:4.56393;display:inline;stroke-width:0.264605"
@@ -597,9 +597,9 @@
        transform="matrix(0.99999536,0,0,0.99991481,8.6320549,55.078513)"><tspan
          x="8.1349859"
          y="15.788796"
-         id="tspan6421"><tspan
+         id="tspan1561"><tspan
            style="-inkscape-font-specification:Manrope;fill:#ffffff"
-           id="tspan6419">N</tspan></tspan></text>
+           id="tspan1559">N</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:Manrope;display:inline;stroke-width:0.264582"
@@ -743,11 +743,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Logo">
+     inkscape:label="Logo"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';letter-spacing:0px;display:inline;stroke-width:0.264577"
-       x="12.608639"
+       x="12.608637"
        y="126.74304"
        id="text54210"
        transform="scale(0.99997641,1.0000236)"
@@ -757,12 +758,12 @@
          sodipodi:role="line"
          id="tspan54208"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';fill:#ffffff;stroke-width:0.264577"
-         x="12.608639"
+         x="12.608637"
          y="126.74304">B W</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';fill:#ffffff;stroke-width:0.264577"
-         x="12.608639"
-         y="130.27083"
+         x="12.608637"
+         y="130.27081"
          dx="0"
          id="tspan64579" /></text>
   </g>
@@ -770,7 +771,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="LEDs"
-     style="display:none">
+     style="display:inline">
     <ellipse
        style="display:inline;fill:#d90000;fill-opacity:1;stroke-width:0.399308;stroke-miterlimit:1.8"
        id="path9702-3-6-4-4"
@@ -804,7 +805,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Jacks"
-     style="display:none">
+     style="display:inline">
     <g
        id="g1289"
        transform="translate(9.5258789e-7,-1.9498345)">
@@ -966,7 +967,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Holes"
-     style="display:none">
+     style="display:inline">
     <path
        id="path3328"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.45336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
