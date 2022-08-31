@@ -427,6 +427,14 @@
     [
       "9a0c52cf-a2e6-4633-bba2-5ebf7f936305",
       ""
+    ],
+    [
+      "8b813b1d-c5b7-4977-8cc0-24b51b89bbdb",
+      "interface"
+    ],
+    [
+      "7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae",
+      "main_board"
     ]
   ],
   "text_variables": {}
