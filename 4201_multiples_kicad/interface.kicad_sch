@@ -497,7 +497,7 @@
     (property "Reference" "D4" (id 0) (at 86.36 80.01 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "green" (id 1) (at 90.17 82.55 0)
+    (property "Value" "1.8mm_green" (id 1) (at 90.17 82.55 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm" (id 2) (at 85.09 86.36 0)
