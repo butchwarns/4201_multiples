@@ -28,6 +28,10 @@ Also shows where on the board components should be placed.
 
 No unobtainium in this project. All components should be easily sourced. All SMT devices on the board are SOIC or 12106 and can be easily handsoldered. (0805 or miniMELF / SOD-80 packages can be used as replacements.)
 
+## Project status
+
+The main branch of this repository holds the current tested version of the board. All potentially breaking changes will be done on the develop branch and the build will be tested before merging. Images in this README do not necessarily show the most recent version of the board, though all images will have version numbers in their title.
+
 ## Contact
 
 Any questions?   
@@ -46,4 +50,4 @@ My name and any logo that might be present on the board design are copyrighted a
 
 You are free to share the images in the `pictures/` folder of this repository with correct attribution or a link to the project.  
 
-Copr. 2021, Butch Warns
+Copr. 2022, Butch Warns
