@@ -39,3 +39,11 @@ Any questions?
 *(TODO: Find appropriate open-hardware license!)*
 
 > Until otherwise stated here, the project is default licensed as proprietary.
+
+Build as many of these boards as you want for personal use, but please make it obvious if your build has modified the project files in any way to avoid confusion!  
+
+My name and any logo that might be present on the board design are copyrighted and are not free to use.
+
+You are free to share the images in the `pictures/` folder of this repository with correct attribution or a link to the project.  
+
+Copr. 2021, Butch Warns
