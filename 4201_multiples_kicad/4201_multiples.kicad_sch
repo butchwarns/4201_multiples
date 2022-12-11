@@ -1417,10 +1417,10 @@
       (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/b887ef6d-6c42-410b-8aea-67e575c72100"
-      (reference "C1") (unit 1) (value "47uF") (footprint "Capacitor_SMD:CP_Elec_5x5.3")
+      (reference "C1") (unit 1) (value "22u") (footprint "Capacitor_SMD:CP_Elec_5x5.3")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/c49865bf-d969-4556-954a-0cc62a17f86f"
-      (reference "C2") (unit 1) (value "47uF") (footprint "Capacitor_SMD:CP_Elec_5x5.3")
+      (reference "C2") (unit 1) (value "22u") (footprint "Capacitor_SMD:CP_Elec_5x5.3")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/bfb87849-70c2-45ac-9a8a-9001590628ee"
       (reference "C3") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -1534,7 +1534,7 @@
       (reference "J19") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/22a2bd3f-2d97-41b9-b2e9-d50c868e3901"
-      (reference "R1") (unit 1) (value "220k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R1") (unit 1) (value "470k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/a4aa72cc-2c82-4e2d-add7-2744df300099"
       (reference "R2") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
@@ -1552,7 +1552,7 @@
       (reference "R6") (unit 1) (value "100R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/40123178-1c31-41e9-b38e-09e43bafe9ba"
-      (reference "R7") (unit 1) (value "220k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R7") (unit 1) (value "470k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/a2071def-db1a-4234-88c1-47df67b6925b"
       (reference "R8") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
