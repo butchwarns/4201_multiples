@@ -1447,34 +1447,34 @@
       (reference "D4") (unit 1) (value "1.8mm_green") (footprint "LED_THT:LED_D1.8mm_W3.3mm_H2.4mm")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/295bc0c1-4fad-4cd1-abc2-3654cf56cfe4"
-      (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/b8e7b4ae-4d81-4daa-b10a-6894da4c29d1"
-      (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/efc6ef98-9baf-45e4-9e04-cf906c8d6991"
-      (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/578ed498-c535-4400-ad51-468aa78fbc0d"
-      (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/e73a5d90-c4d8-40f4-956e-a9313f958340"
-      (reference "D9") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D9") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/fb75e2d7-3f2c-4d06-b82b-f6e950a5b135"
-      (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/59ef377d-ec8f-4c26-a9ce-2764bc6c4dce"
-      (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/c94ffb8c-cedc-466e-b5d1-5d0d255a103d"
-      (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/40abe7ba-8a84-4772-8cd9-356ec0672108"
-      (reference "D13") (unit 1) (value "LL103A") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D13") (unit 1) (value "LL103A") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/7cd117d0-9d7c-47f8-b2dc-5750ac60f5ae/de86bd4f-2ca8-45e7-8155-33eaf7070493"
-      (reference "D14") (unit 1) (value "LL103A") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D14") (unit 1) (value "LL103A") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/8b813b1d-c5b7-4977-8cc0-24b51b89bbdb/a8cab53d-e2b5-4f13-a45d-cfd2eb662e0a"
       (reference "J1") (unit 1) (value "PJ392") (footprint "OS_Connectors:Jack_3.5mm_PJ392_Vertical")
