@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="11.475524mm"
+   width="12.147573mm"
    height="1.5875025mm"
-   viewBox="0 0 11.475524 1.5875025"
+   viewBox="0 0 12.147573 1.5875025"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="6.7277216"
-     inkscape:cx="33.072118"
-     inkscape:cy="1.4863873"
+     inkscape:zoom="9.6185395"
+     inkscape:cx="30.254073"
+     inkscape:cy="2.1832837"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -50,9 +50,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0136724;paint-order:markers stroke fill"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0140671;paint-order:markers stroke fill"
        id="rect235"
-       width="11.475524"
+       width="12.147573"
        height="1.5875"
        x="0"
        y="0" />
@@ -69,13 +69,13 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.11667px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="-0.1058336"
+       x="-0.10583312"
        y="1.5557512"
        id="text1007"><tspan
          sodipodi:role="line"
          id="tspan1005"
          style="font-size:2.11667px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="-0.1058336"
-         y="1.5557512">4201  V0.1.0</tspan></text>
+         x="-0.10583312"
+         y="1.5557512">4201  V0.2.0</tspan></text>
   </g>
 </svg>
