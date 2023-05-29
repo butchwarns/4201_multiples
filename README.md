@@ -26,7 +26,7 @@ Also shows where on the board components should be placed.
 
 ## Component availability / choices
 
-No unobtainium in this project. All components should be easily sourced. All SMT devices on the board are SOIC or 12106 and can be easily handsoldered. (0805 or miniMELF / SOD-80 packages can be used as replacements.)
+No unobtainium in this project. All components should be easily sourced. All SMT devices on the board are SOIC or 1206 and can be easily handsoldered. (0805 or miniMELF / SOD-80 packages can be used as replacements.)
 
 ## Project status
 
